@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    width: 800px;
+    margin: 25px auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.name{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin: 5% 0%;
+}
+.name h1{
+    margin: 0%;
+}
+.name p{
+    margin-bottom: 0%;
+    margin: 0, 0,;
+    color: rgb(6, 125, 177);
+}
+.contact{
+    margin: 5%;
+    border: 1px solid grey;   
+}
+.contact h4{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.contact p{
+    color: rgb(6, 125, 177);
+}
+.address{
+    border: 1px solid grey;
+}
+.address h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.profile{
+    border: 1px solid grey
+}
+.profile h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.kskills{
+    border: 1px solid grey;
+}
+.kskills h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177)
+}
+.pmember{
+    border: 1px solid grey
+}
+.pmember h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.education{
+    border: 1px solid grey
+}
+.education h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+table{
+    width: 100%;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    font-size: larger;
+} 
+table td{
+    border: 1px solid grey;
+}
+.work{
+    border: 1px solid grey
+}
+article h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.strenght{
+    border: 1px solid grey
+}
+.strenght h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
+.lang{
+    border: 1px solid grey;
+}
+.lang h5{
+    margin: 0%;
+    background-color: rgb(6, 125, 177);
+}
